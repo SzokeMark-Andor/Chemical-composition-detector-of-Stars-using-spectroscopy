@@ -46,3 +46,12 @@ This project identifies spectral lines in various stellar classes. The findings 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Citation
+
+If you use this project in your research, please cite it as follows:
+
+### Harvard Style
+Szoke, M.-A. (2024) *Chemical composition detector of stars using spectroscopy*, GitHub. Available at: [https://github.com/SzokeMark-Andor/Chemical-composition-detector-of-Stars-using-spectroscopy/tree/main](https://github.com/SzokeMark-Andor/Chemical-composition-detector-of-Stars-using-spectroscopy/tree/main).
+
+### IEEE Format
+M.-A. Szoke, “Chemical composition detector of stars using spectroscopy,” GitHub, 2024. [Online]. Available: https://github.com/SzokeMark-Andor/Chemical-composition-detector-of-Stars-using-spectroscopy/tree/main. [Accessed: Day Month Year].
